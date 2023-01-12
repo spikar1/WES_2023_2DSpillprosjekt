@@ -1,11 +1,44 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
 public class Tools
 {
+    [MenuItem("SomeMenyGroup/Do Foo")]
+    static void Foo()
+    {
+        // Get all objects of Type Enemy (This is a MonoBehaviour)
+        var enemies = GameObject.FindObjectsOfType<Enemy>();
 
+        // Create an array to put our new selection of GameObjects in
+        GameObject[] newSelection = new GameObject[enemies.Length];
+
+        // Go through all the enemies we found
+        for (int i = 0; i < enemies.Length; i++)
+        {
+            // Add the gameObject of each enemy into our new selection
+            newSelection[i] = enemies[i].gameObject;
+        }
+
+        // Overwrite the Selection in Unity
+        Selection.objects = newSelection;
+    }
+    [MenuItem("Tools/SteffenFine/Randomize Rotation")]
+    static void RandomizeRotation()
+    {
+        // if no Transforms are selected, do nothing
+        if (Selection.transforms.Length == 0)
+            return;
+
+        //Iterate through all selected transforms
+        foreach (Transform transform in Selection.transforms)
+        {
+            //Declare to Unity that a change will be made, and name it
+            Undo.RecordObject(transform, "Randomize Rotation");
+
+            //Apply the actual change
+            transform.up = Random.insideUnitCircle;
+        }
+    }
     [MenuItem("Tools/SteffenFine/Place On Ground")]
     static void PlaceOnGround()
     {
@@ -23,18 +56,5 @@ public class Tools
             }
         }
     }
-    [MenuItem("Tools/SteffenFine/Randomize Rotation")]
-    static void RandomizeRotation()
-    {
-        if(Selection.gameObjects.Length == 0) 
-            return;
-
-        foreach (var gameObject in Selection.gameObjects)
-        {
-            Undo.RecordObject(gameObject.transform, "Randomize Rotation");
-
-            gameObject.transform.up = Random.insideUnitCircle;
-        }
-    }
-
 }
+
