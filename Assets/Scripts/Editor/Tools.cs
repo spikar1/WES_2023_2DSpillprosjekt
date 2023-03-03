@@ -22,7 +22,7 @@ public class Tools
         // Overwrite the Selection in Unity
         Selection.objects = newSelection;
     }
-    [MenuItem("Tools/SteffenFine/Randomize Rotation")]
+    [MenuItem("Tools/SteffenFine/Randomize Rotation #&G")]
     static void RandomizeRotation()
     {
         // if no Transforms are selected, do nothing
@@ -53,6 +53,31 @@ public class Tools
                 Undo.RecordObject(gameObject.transform, "Place on Ground");
 
                 gameObject.transform.position = hit.point;
+            }
+        }
+    }
+
+    [MenuItem("Tools/SteffenFine/Place On Ground 2.0")]
+    static void PlaceOnGround2()
+    {
+        if (Selection.transforms.Length <= 0)
+            return;
+
+        foreach (var transform in Selection.transforms)
+        {
+            //Deklarerte en hit variabel
+            RaycastHit2D hit;
+            // assigne den
+            hit = Physics2D.Raycast(transform.position, Vector2.down);
+
+            // hit != null
+            if (hit)
+            {
+                Undo.RecordObject(transform, "Place on Ground 2.0ofgnsdgovsd");
+
+                Debug.DrawLine(transform.position, hit.point, Color.blue, 3);
+
+                transform.position = hit.point;
             }
         }
     }
