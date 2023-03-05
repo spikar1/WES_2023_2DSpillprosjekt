@@ -1,0 +1,3149 @@
+fileFormatVersion: 2
+guid: 91584aefe3a476b41a7b998e411adba1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FF_BattleSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1188839ab1e1344b59e54605a23eca
+      internalID: 1606413470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 351
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96816e77133d33e4ba89da0e699c8da8
+      internalID: 2093030949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 351
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547b36d49f8d7845a12209265cfdaff
+      internalID: 1460819953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 351
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d18eb2c1f8e1c449eb540a3191bb68
+      internalID: -1999644396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 351
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86668243f69cd4db3839e9e63319c6
+      internalID: 313350478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 351
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c01c2699b87594b9d9a1138c54a1f1
+      internalID: 2133143579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 351
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da8a57e90950443afd518a230a6800
+      internalID: -1173802639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86d2366d067354eab84cbc7315f145
+      internalID: 1661349292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7384c595abd024548bfcc58f6f692c54
+      internalID: 240189239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 351
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd74edaa4ab1f4980cd2e144e262bc
+      internalID: -560073241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ce51861394eb479caeaa12f8a1c45
+      internalID: -1568833589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 323
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80177e48868b6a547b00cb4196cf0959
+      internalID: 591382690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 323
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd184992b4a9b42967dc035a229e38
+      internalID: 394316059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 323
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a88571bf5b7b42b4f5585867ed40f
+      internalID: 2081047512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 323
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918893533aa832d468b6767fa3fb3c96
+      internalID: -1393830222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6db7df70b7c44daf2d3d70a046ab9
+      internalID: -26279751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0cc7d536ae6f4da9fcdef495dce61
+      internalID: 2116410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 323
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af59d6598655eb4890329ba8cc5a396
+      internalID: 1292534113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 323
+        width: 23
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30288b81472e0a340866d2500d4c1da3
+      internalID: 928368667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 323
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611198eb9723e64d966226a834eb1b5
+      internalID: 1498808962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b67325206fc46498ab062361d68fd6
+      internalID: -1436275840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 294
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57215127f7f1c5f419066f42b93160ee
+      internalID: -471122208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 294
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa260ccbcf213e9488de56482a28d63a
+      internalID: -1911454851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12af832b24addec49b107b98e126d46e
+      internalID: -1351559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 294
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad5ae2532d90a47b2cc9c785ace61d
+      internalID: -2095766507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 294
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d53feda46bc14eaad46393b8e4468
+      internalID: -1066412010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 294
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15b5e82bc88e68428c46da9f8e3d34b
+      internalID: -564853974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 294
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3791ee2f64418e840939cddc7d5b5643
+      internalID: 1684632126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 294
+        width: 24
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8ec8e4afb0fe458b17c181681121b
+      internalID: -899162314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 294
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c91a8d3dc8adb41a0eb585588065e2
+      internalID: -2138500203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abdfb347c825584abd44911fea5678f
+      internalID: 917501905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 265
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b66c9c2566ed4c995508ec378b0eb
+      internalID: 474662699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 265
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd8f7060c4c0284c895b2314c229fd8
+      internalID: 812355996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 265
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b03e8cb90dd84a956208abeec82df
+      internalID: -105569601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 265
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612dce98b1daf946b4e80e1506c5577
+      internalID: 903426358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 265
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16933a4e39858140ad1b9153e448981
+      internalID: 1356414774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 265
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1d4813c71a2d49aeeaa9f36db9e14
+      internalID: 126828350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 265
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde5adcd976d0d468438ed07689e42a
+      internalID: -663572180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 265
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77efdd2e894e23c4aafacf368044122b
+      internalID: 1519121073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 265
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164591c30fd71c4c8aa689bb2ad7445
+      internalID: -790058105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 265
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39be2449bc0824985482ee38c91a40
+      internalID: -1874689741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 265
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4dbc74a72d6c4c83c8bd6253319dc
+      internalID: -597914181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 237
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc506ef42c222549a6598813cb8be7c
+      internalID: -2027255131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 237
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ce45fe3298ee4e8b7c9c41822e847
+      internalID: -1567522404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792e8e78be72700448538412e7e9c0eb
+      internalID: -1106619382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 237
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3887e4672eaa049802ec181fd5b73b
+      internalID: 1588207451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 237
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07a2c33acfb174a9aeb2c64cd8f925
+      internalID: 752148858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 237
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0251ffafd10576148915d76b77332b1e
+      internalID: 2046377338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 237
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae10beb13bc51d448de761fe1308e30
+      internalID: -1669513829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 237
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2134f6bc0df1c49aab573b004fa7d2
+      internalID: -190744310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 237
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30534d5317b6b1443b2756ac2ec99688
+      internalID: 158772459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 237
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e195d96bf3bab43a8d993ec2233837
+      internalID: 1152981566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 237
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1c2b6072608d45bdb7088b14ac263
+      internalID: -714842808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 237
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c56984bfe9074db67e5dc679e5104
+      internalID: -1157225646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadad70c180196e4abb5360215d0e95a
+      internalID: 1682485526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 209
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e24e43d374e4469d6225956063ac8
+      internalID: 1406963760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 209
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba370a300a7815e4587fbda4d65a2499
+      internalID: 348629731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fee4368e7bd504c8a870b7fb320c58
+      internalID: -609223075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 209
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795dd656eba51654490f947f292dc5aa
+      internalID: -1773080365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 209
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5fc8b04921cd4ebe49ecb2c70fe2b
+      internalID: -691833122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 209
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d7b696dd2a554e94b13d1ed464e88
+      internalID: -214621894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_61
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 209
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af54a895b2a81e4eada65b7e13c02ae
+      internalID: 1764756565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_62
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f62853bf7872e42a2703e7b3c95ac9
+      internalID: 1517990088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 209
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902cf30f273fb3d42ac5e9736691585d
+      internalID: 941354563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 209
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26175aceebb8b1746ae62cc6ff52876d
+      internalID: -1914779051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 209
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30ea742a7d16342b1e4bdcdf5dbac1
+      internalID: -455192483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5183ef522f69c4b9fec9be64d3fb0c
+      internalID: -100417144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 179
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ade1b5ee64e7d47a253bfb0b0852e9
+      internalID: 2012940578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca24b46aaa4ba4c92aa4e7cb219863
+      internalID: -2047981743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 179
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b926a3b45b644991ebf20521f53a5
+      internalID: 1908725756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e4739b863dc040afc811d7e252dd0
+      internalID: 1833058765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 179
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500709395e8a3649a9452e1a5792c4a
+      internalID: 1412716833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 179
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a052aceffb9c4cad0119f896c0918
+      internalID: 1358244078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 179
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b160d2351a9c154dae0253ddbf39d08
+      internalID: 255096786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 179
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8002c368ab6b4788fd6c24b44098f
+      internalID: -508772323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_75
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 179
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0955e00c62ac76541b3ccf6fe6078522
+      internalID: 1855805933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e3e54ce2701a4c9d7a3880162f49c
+      internalID: -397245009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 179
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56525d84388d98c43b6535686afa45ad
+      internalID: -2003707053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4f116c99ba7f47a278111f6cc7bb7
+      internalID: -1301834075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 150
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb521f14237ca945a205e8fa1f31f4d
+      internalID: -580892951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 150
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f2d553631bf44dad312f2ff44ed3d
+      internalID: -891295584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf86a5fe3854349b9d6ef3b204a192
+      internalID: -429037582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 150
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c357e7c1694e68459789ee29abd13a7
+      internalID: 837613010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 150
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f6fad6286f1141b81b460057f7b12
+      internalID: -753459176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 150
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac104253419fc42844852d51658201
+      internalID: 1659419977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_85
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3888afea764eb841b47567c68c827a3
+      internalID: -1996091265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198529fb8cc66d49923e6bca2a7922c
+      internalID: 1799825043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 150
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1844f75311e8fd340b65f04b178bac90
+      internalID: -192060323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_88
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 150
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4359d73e1ce6649bb534a425604476
+      internalID: 418691373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4726703370a542a65e42b9e11e49c
+      internalID: -97976207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc258758d64c4449bbba8f8296b1d36
+      internalID: 781150191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 122
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93327f548319d4840b5c011bf630a755
+      internalID: -562038758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 122
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bef37bdb6b1fa43bad8f060b655ef0
+      internalID: -101342031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6688ee18a4549a4d90bc04de791fa68
+      internalID: -420408709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_94
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 122
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d6ace379063f4cb880565ed926e62
+      internalID: 214498271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_95
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 122
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de45137860a314e98f23ec5ae05c19
+      internalID: -2075793966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 122
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c34f31834d06478206f89bb6bb5b1
+      internalID: -136990143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_97
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 122
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ac465482f20041ab9844c5c2fe82b
+      internalID: 911547672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_98
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 122
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0d90c1861fcc49b682123db83dc15
+      internalID: 1849923392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_99
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa153a9152153cf4dae5f52641e26bdf
+      internalID: -1540208790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad22935b10a3024c8ca4eef1d1db1ec
+      internalID: 1358976648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_101
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799f2643059a714b96c73175eb1ca48
+      internalID: 948538512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 93
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07b6505640912429599e7ae46ad69e
+      internalID: 709758181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 93
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368b8346e4b671643a248b089928a3ea
+      internalID: 1613034375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_104
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c8fc98c0112145a1b9074c5fd6fd7
+      internalID: 1392440991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_105
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 93
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e18719edb6c9f42ad9d83993ed46d5
+      internalID: -1456953644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_106
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326f3f692fd2825418e0b74d2b8cdd42
+      internalID: -1617704510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 93
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715c04e112d6084abf53c4103639ffc
+      internalID: -937168179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 93
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434666d7110863443938ed8946998abb
+      internalID: 737185502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_109
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 93
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9a8f5b608bd040acbf0376816421a
+      internalID: 152510963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 93
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f425cefd606040b2818b51f52a6f0
+      internalID: -655991577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_111
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 93
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1bf92e9d44ea641913f1544818f035
+      internalID: -1728015336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbed5117194e654d8dabc4988ddd52c
+      internalID: -885124524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 66
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1698ccd25a407ec4cbb77b4ed2412e21
+      internalID: -1422726231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9703cd5a6ff5eca45adb864060adb6e7
+      internalID: -463045908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_115
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f45491d7d6e6b4f9d688c9e6c91e30
+      internalID: 1207543294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_116
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7176dddaf55345b4ab011785e457a189
+      internalID: -1031731192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_117
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee58f3e1a626994a9c1100340c962ec
+      internalID: 1451849644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e0988a1e1a324e88fe895e74875a8
+      internalID: -1203402156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c3b681e950c74fb2e38bffc046ca9
+      internalID: -1878762487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_120
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c7793d2d8e844f8854fa984be9039
+      internalID: -1725407655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_121
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 66
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1753d2d47b14488a55d9828c3b541
+      internalID: 1313964110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_122
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 66
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001cd220a05b1d4c821e30e9697b520
+      internalID: -659849090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_123
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012350c7bbefe7b408e0383be303ea1d
+      internalID: 1068617501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22f7e3f3226954d8e75100b5f1b2b4
+      internalID: 1395714808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed23b41cf922404fb28901fecbe5b9e
+      internalID: -1761203860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_126
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4222d03ce522043871197527b7be17
+      internalID: 1535102079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_127
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd2e9ab961fa54abeed7d81486e25c
+      internalID: 1972517144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_128
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a5e4883286414c84363bae70d0832
+      internalID: -666009206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_129
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e105c028671264448afc11380308d20
+      internalID: 1926256115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_130
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e973e6711a2c4286a0b9d97c071ba
+      internalID: -1471585652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_131
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 36
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43bb448d814fe4d9b5aa8686e74b3b
+      internalID: 1932052738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_132
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0fc8548a7fe3a41924c7f78d187637
+      internalID: -2066025330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_133
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 36
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64075d8ed2ea180409397304688fab17
+      internalID: 1031368557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_134
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 36
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635159331a53cb14e81ee9704240b30a
+      internalID: 140094301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 36
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7738a4fb43faae44d8427a48b991cdf9
+      internalID: -652088515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FF_BattleSprites_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 293
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced27bc05e379046948ff6729ffd8ee
+      internalID: 1849533617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FF_BattleSprites_16: 2116410561
+      FF_BattleSprites_9: -560073241
+      FF_BattleSprites_104: 1392440991
+      FF_BattleSprites_36: 126828350
+      FF_BattleSprites_32: 812355996
+      FF_BattleSprites_0: 1606413470
+      FF_BattleSprites_58: -1773080365
+      FF_BattleSprites_43: -1567522404
+      FF_BattleSprites_69: 1908725756
+      FF_BattleSprites_6: -1173802639
+      FF_BattleSprites_10: -1568833589
+      FF_BattleSprites_7: 1661349292
+      FF_BattleSprites_48: -1669513829
+      FF_BattleSprites_135: -652088515
+      FF_BattleSprites_34: 903426358
+      FF_BattleSprites_102: 709758181
+      FF_BattleSprites_72: 1358244078
+      FF_BattleSprites_79: -580892951
+      FF_BattleSprites_22: -1911454851
+      FF_BattleSprites_26: -564853974
+      FF_BattleSprites_55: 1406963760
+      FF_BattleSprites_59: -691833122
+      FF_BattleSprites_120: -1725407655
+      FF_BattleSprites_108: 737185502
+      FF_BattleSprites_113: -1422726231
+      FF_BattleSprites_103: 1613034375
+      FF_BattleSprites_123: 1068617501
+      FF_BattleSprites_63: 941354563
+      FF_BattleSprites_129: 1926256115
+      FF_BattleSprites_94: 214498271
+      FF_BattleSprites_13: 2081047512
+      FF_BattleSprites_61: 1764756565
+      FF_BattleSprites_97: 911547672
+      FF_BattleSprites_117: 1451849644
+      FF_BattleSprites_18: 928368667
+      FF_BattleSprites_107: -937168179
+      FF_BattleSprites_38: 1519121073
+      FF_BattleSprites_19: 1498808962
+      FF_BattleSprites_73: 255096786
+      FF_BattleSprites_51: 1152981566
+      FF_BattleSprites_126: 1535102079
+      FF_BattleSprites_49: -190744310
+      FF_BattleSprites_106: -1617704510
+      FF_BattleSprites_92: -101342031
+      FF_BattleSprites_121: 1313964110
+      FF_BattleSprites_95: -2075793966
+      FF_BattleSprites_128: -666009206
+      FF_BattleSprites_2: 1460819953
+      FF_BattleSprites_17: 1292534113
+      FF_BattleSprites_31: 474662699
+      FF_BattleSprites_77: -2003707053
+      FF_BattleSprites_39: -790058105
+      FF_BattleSprites_42: -2027255131
+      FF_BattleSprites_87: -192060323
+      FF_BattleSprites_50: 158772459
+      FF_BattleSprites_101: 948538512
+      FF_BattleSprites_132: -2066025330
+      FF_BattleSprites_35: 1356414774
+      FF_BattleSprites_100: 1358976648
+      FF_BattleSprites_24: -2095766507
+      FF_BattleSprites_105: -1456953644
+      FF_BattleSprites_11: 591382690
+      FF_BattleSprites_133: 1031368557
+      FF_BattleSprites_91: -562038758
+      FF_BattleSprites_111: -1728015336
+      FF_BattleSprites_67: 2012940578
+      FF_BattleSprites_21: -471122208
+      FF_BattleSprites_112: -885124524
+      FF_BattleSprites_46: 752148858
+      FF_BattleSprites_114: -463045908
+      FF_BattleSprites_27: 1684632126
+      FF_BattleSprites_60: -214621894
+      FF_BattleSprites_99: -1540208790
+      FF_BattleSprites_85: -1996091265
+      FF_BattleSprites_66: -100417144
+      FF_BattleSprites_86: 1799825043
+      FF_BattleSprites_118: -1203402156
+      FF_BattleSprites_41: -597914181
+      FF_BattleSprites_88: 418691373
+      FF_BattleSprites_12: 394316059
+      FF_BattleSprites_53: -1157225646
+      FF_BattleSprites_1: 2093030949
+      FF_BattleSprites_134: 140094301
+      FF_BattleSprites_127: 1972517144
+      FF_BattleSprites_15: -26279751
+      FF_BattleSprites_54: 1682485526
+      FF_BattleSprites_125: -1761203860
+      FF_BattleSprites_37: -663572180
+      FF_BattleSprites_3: -1999644396
+      FF_BattleSprites_78: -1301834075
+      FF_BattleSprites_14: -1393830222
+      FF_BattleSprites_56: 348629731
+      FF_BattleSprites_44: -1106619382
+      FF_BattleSprites_70: 1833058765
+      FF_BattleSprites_25: -1066412010
+      FF_BattleSprites_122: -659849090
+      FF_BattleSprites_23: -1351559476
+      FF_BattleSprites_8: 240189239
+      FF_BattleSprites_76: -397245009
+      FF_BattleSprites_109: 152510963
+      FF_BattleSprites_98: 1849923392
+      FF_BattleSprites_90: 781150191
+      FF_BattleSprites_5: 2133143579
+      FF_BattleSprites_68: -2047981743
+      FF_BattleSprites_84: 1659419977
+      FF_BattleSprites_89: -97976207
+      FF_BattleSprites_71: 1412716833
+      FF_BattleSprites_28: -899162314
+      FF_BattleSprites_83: -753459176
+      FF_BattleSprites_81: -429037582
+      FF_BattleSprites_57: -609223075
+      FF_BattleSprites_110: -655991577
+      FF_BattleSprites_82: 837613010
+      FF_BattleSprites_93: -420408709
+      FF_BattleSprites_116: -1031731192
+      FF_BattleSprites_130: -1471585652
+      FF_BattleSprites_80: -891295584
+      FF_BattleSprites_131: 1932052738
+      FF_BattleSprites_119: -1878762487
+      FF_BattleSprites_124: 1395714808
+      FF_BattleSprites_33: -105569601
+      FF_BattleSprites_45: 1588207451
+      FF_BattleSprites_64: -1914779051
+      FF_BattleSprites_52: -714842808
+      FF_BattleSprites_29: -2138500203
+      FF_BattleSprites_136: 1849533617
+      FF_BattleSprites_40: -1874689741
+      FF_BattleSprites_75: 1855805933
+      FF_BattleSprites_115: 1207543294
+      FF_BattleSprites_20: -1436275840
+      FF_BattleSprites_30: 917501905
+      FF_BattleSprites_62: 1517990088
+      FF_BattleSprites_4: 313350478
+      FF_BattleSprites_47: 2046377338
+      FF_BattleSprites_96: -136990143
+      FF_BattleSprites_74: -508772323
+      FF_BattleSprites_65: -455192483
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     [SerializeField]
     float jumpHeight = 12;
 
+    [SerializeField]
+    private int health = 10;
     Rigidbody2D rb;
     [SerializeField]
     bool grounded;
@@ -31,6 +33,11 @@ public class Player : MonoBehaviour
         {
             Jump();
         }
+    }
+
+    public void OnDamage()
+    {
+        health -= 1;
     }
 
     private void FixedUpdate()

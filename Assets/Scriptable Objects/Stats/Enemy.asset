@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb631088b01d21442af7b5bd6533a014, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  entityName: Enemy
+  maxHealth: 30
+  attack: 5
+  defense: 5
+  speed: 5
+  attackSpeed: 1
+  attackRange: 1
+  sprite: {fileID: 917501905, guid: 91584aefe3a476b41a7b998e411adba1, type: 3}
