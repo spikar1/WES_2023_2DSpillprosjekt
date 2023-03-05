@@ -14,13 +14,18 @@ public class RPG_Enemy : MonoBehaviour
     float HealthFactor => (float)health / stats.MaxHealth;
     int health;
 
+    public bool IsDead => health <= 0;
+
     SpriteRenderer spriteRenderer;
 
-    public UnityEvent onDead;
+    [SerializeField]
+    GameEvent onDeathEvent;
 
     Tween tween;
 
-    private void Start()
+    public static event Action<RPG_Enemy> OnEnemyDeath;
+
+    private void Awake()
     {
         health = stats.MaxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -43,7 +48,8 @@ public class RPG_Enemy : MonoBehaviour
 
     private void OnDead()
     {
-        Destroy(gameObject);
-        onDead.Invoke();
+        this.enabled = false;
+        onDeathEvent.Raise();
+        OnEnemyDeath(this);
     }
 }

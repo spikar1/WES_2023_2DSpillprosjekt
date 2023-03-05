@@ -25,3 +25,6 @@ public class RPG_EntityStats : ScriptableObject
 
     public Sprite Sprite => sprite;
 }
+
+
+
