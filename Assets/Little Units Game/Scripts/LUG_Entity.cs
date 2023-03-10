@@ -19,6 +19,7 @@ public class LUG_Entity : MonoBehaviour
     {
         LUG_Enemy.onEnemyDeath += OnEnemyDeath;
     }
+    //To avoid memory leaks, we need to unsubscribe from the events aswell
     private void OnDisable()
     {
         LUG_Enemy.onEnemyDeath -= OnEnemyDeath;
@@ -26,7 +27,7 @@ public class LUG_Entity : MonoBehaviour
 
     void OnEnemyDeath(LUG_Enemy enemy)
     {
-        //response
+        //response to the on death event defined in LUG_Enemy script
         Debug.Log($"{enemy} has died");
         enemy.someString = "Haha, you died";
     }
