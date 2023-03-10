@@ -25,12 +25,20 @@ public class RPG_Enemy : MonoBehaviour
 
     public static event Action<RPG_Enemy> OnEnemyDeath;
 
+    public delegate void OnFoo(int someInt, float someFloat);
+    public static event OnFoo onFoo;
+
     private void Awake()
     {
         health = stats.MaxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = stats.Sprite;
+
     }
+    private void OnEnable() => onFoo += Boo;
+    private void OnDisable() => onFoo -= Boo;
+
+    void Boo(int i, float f) => Debug.Log($"i : {i}, f: {f}");
 
     public void onTakeDamage(int damage)
     {
